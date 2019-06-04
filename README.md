@@ -1,11 +1,11 @@
-# Leetcode-Java    ![Progress](http://progressed.io/bar/0)
+# Leetcode-Java    ![Progress](http://progressed.io/bar/1)
 ###### From https://www.teamblind.com/article/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 ---
 
 Array
 
-- Two Sum - https://leetcode.com/problems/two-sum/
+- <del>Two Sum - https://leetcode.com/problems/two-sum/<del>
 - Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
 - Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
