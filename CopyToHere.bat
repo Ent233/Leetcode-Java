@@ -1,7 +1,7 @@
 @echo off
 setlocal EnableDelayedExpansion
 git pull origin master
-set DIR="%D:\workspace\Leetcode-workplace\%"
+set DIR="%D:\workspace\Leetcode-workspace\%"
 for /r %DIR% %%i in (*.java) do (
 	set str=%%~pdi
 	set str=!str:~32!
